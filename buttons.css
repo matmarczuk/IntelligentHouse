@@ -1,0 +1,48 @@
+.room-btn {
+    width: 300px !important;
+    height: 300px !important;
+    background-color: transparent;
+    padding-top: 130px;
+    font-size: 40px;
+  }
+.img-btn
+  {   
+      display: inline-block;
+      vertical-align: text-top;
+      background-position: center;
+      background-position-y: 30px;
+      background-repeat: no-repeat;
+      background-size: 150px 150px;
+      background-position: 10px 10 px;
+  }
+
+.bathroom
+{
+    background-color: rgb(121, 121, 241);
+    background-image: url(https://image.flaticon.com/icons/svg/259/259973.svg);
+}
+.babyroom
+{
+    background-color: rgb(14, 168, 27);
+    background-image: url(https://image.flaticon.com/icons/svg/941/941515.svg);
+}
+.salon
+{
+    background-color: rgb(226, 49, 49);
+    background-image: url(https://image.flaticon.com/icons/svg/1010/1010398.svg);
+}
+.kitchen
+{
+    background-color: rgb(241, 153, 53);
+    background-image: url(https://image.flaticon.com/icons/svg/130/130287.svg);
+}
+.wardrobe
+{
+    background-color: rgb(226, 49, 196);
+    background-image: url(https://image.flaticon.com/icons/svg/1288/1288972.svg);
+}
+.sleeproom
+{
+    background-color: rgb(134, 133, 133);
+    background-image: url(https://image.flaticon.com/icons/svg/895/895474.svg);
+}
