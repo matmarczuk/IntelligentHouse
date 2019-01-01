@@ -1,0 +1,16 @@
+.roomcard
+{
+    color:gray;
+    background-color: rgb(16, 255, 16);
+}
+.tempcard
+{
+      width: 700px !important;
+      height: 300px !important;
+      background-color:gray;
+      border-radius: 4px;
+            
+      padding-top: 130px;
+      font-size: 40px;
+
+}

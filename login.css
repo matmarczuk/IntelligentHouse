@@ -1,0 +1,44 @@
+.login-btn
+{
+    background-color: green;
+    border-radius: 4px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+    
+
+}
+.login-btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+.login-input
+{
+    width: 400px;
+    height: 40px;
+    background-color: gray;
+    border-radius: 4px;
+    border: none;
+
+}
+.loging
+{   
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+    vertical-align: middle;
+    text-align: center;
+    
+}
+h2
+{
+	font-size: 36px;
+	font-weight: 400;
+    color: #C0D06F;
+    font
+}

@@ -11,12 +11,12 @@ h1
 	font-size: 36px;
 	font-weight: 400;
 	color: #C0D06F;
-	margin: 20px;
 }
 
 .jumpers
 {
 	text-align: center;
+	border:none;
 }
 
 .jumpers img
